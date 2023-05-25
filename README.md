@@ -1,0 +1,3 @@
+- 🫐 hey, i’m @grace-05 :)
+- 🍒 i’m interested in having fun w c#!
+- 🌱 i’m currently learning (starting to learn) python and java!
